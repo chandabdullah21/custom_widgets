@@ -1,7 +1,7 @@
 name: custom_widgets
-description: "A new Flutter package project."
+description: "To be able to add custom buttons, alerts and much more"
 version: 0.0.1
-homepage:
+homepage: https://github.com/chandabdullah21/custom_widgets
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
